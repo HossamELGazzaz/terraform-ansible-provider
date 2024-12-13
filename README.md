@@ -1,2 +1,2 @@
 # terraform-ansible-provider
-ntegrating Terraform and Ansible for Seamless Windows VM Configuration
+integrating Terraform and Ansible for Seamless Windows VM Configuration
